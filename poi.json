@@ -1,0 +1,1650 @@
+[
+    {
+        "id": 1,
+        "name": "AMAZON BGY1",
+        "latitudine": 45.529802,
+        "longitudine": 9.834588,
+        "indirizzo": "Via 1 Maggio, 24050 Cividate al piano BG, Italia",
+        "url": "https://picsum.photos/201"
+    },
+    {
+        "id": 2,
+        "name": "AMAZON CDG7",
+        "latitudine": 49.2077775,
+        "longitudine": 2.6187033,
+        "indirizzo": "2 Av. Alain Boucher, 60300 Senlis, France",
+        "url": "https://picsum.photos/202"
+    },
+    {
+        "id": 3,
+        "name": "AMAZON MASSALENGO LO",
+        "latitudine": 45.2457142,
+        "longitudine": 9.5030053,
+        "indirizzo": "SP23, Massalengo LO, Italy",
+        "url": "https://picsum.photos/203"
+    },
+    {
+        "id": 4,
+        "name": "AMAZON MASSALENGO LO",
+        "latitudine": 45.2457142,
+        "longitudine": 9.5030053,
+        "indirizzo": "SP23, Massalengo LO, Italy",
+        "url": "https://picsum.photos/204"
+    },
+    {
+        "id": 5,
+        "name": "AMAZON TRAPAGARAN",
+        "latitudine": 43.2977125,
+        "longitudine": -3.0168403,
+        "indirizzo": "Carretera Juncal, 5023, 48510, Bizkaia, Spain",
+        "url": "https://picsum.photos/205"
+    },
+    {
+        "id": 6,
+        "name": "Anchoragelaan 50, 1118 LE Schiphol, Netherlands",
+        "latitudine": 52.2934476,
+        "longitudine": 4.7626655,
+        "indirizzo": "Anchoragelaan 50, 1118 LE Schiphol, Netherlands",
+        "url": "https://picsum.photos/206"
+    },
+    {
+        "id": 7,
+        "name": "AS24 ARLUNO",
+        "latitudine": 45.4976515,
+        "longitudine": 8.9281237,
+        "indirizzo": "Via per Turbigo, 69, 20010 Arluno MI, Italy",
+        "url": "https://picsum.photos/207"
+    },
+    {
+        "id": 8,
+        "name": "AS24 BCN",
+        "latitudine": 41.3319738,
+        "longitudine": 2.1350978,
+        "indirizzo": "Carrer B, 13, 08040 Barcelona, Spain",
+        "url": "https://picsum.photos/208"
+    },
+    {
+        "id": 9,
+        "name": "AS24 BE/FR",
+        "latitudine": 50.34304483,
+        "longitudine": 3.468422316,
+        "indirizzo": "60 Rue François Durieux, 59174 La Sentinelle, Francia",
+        "url": "https://picsum.photos/209"
+    },
+    {
+        "id": 10,
+        "name": "AS24 DNG",
+        "latitudine": 49.7684102,
+        "longitudine": 10.4707973,
+        "indirizzo": "Scheinfelder Str. 15, 96160 Geiselwind, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 11,
+        "name": "as24 figueres nord",
+        "latitudine": 42.2962453,
+        "longitudine": 2.939311,
+        "indirizzo": "C. Hispano Suiza, 17730 Llers, Girona, Spain",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 12,
+        "name": "AS24 LANDRIANO",
+        "latitudine": 45.3252145,
+        "longitudine": 9.256235,
+        "indirizzo": "Strada Provinciale ex Strada Statale 412 della Val Tidone, 377, 27015 Landriano PV, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 13,
+        "name": "AS24 VITORIA",
+        "latitudine": 42.844193,
+        "longitudine": -2.7555115,
+        "indirizzo": "Askarra Kalea, 4, 01195 Gasteiz, Araba, Spain",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 14,
+        "name": "AVIA PARTNER",
+        "latitudine": 43.4477262,
+        "longitudine": 5.2192732,
+        "indirizzo": "Rte de l'Aéroport, 13700 Marignane, France",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 15,
+        "name": "BCN DAF",
+        "latitudine": 41.3978453,
+        "longitudine": 2.0274743,
+        "indirizzo": "C/ del Pla, 35, 08750 Molins de Rei, Barcelona, Spain",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 16,
+        "name": "BENZINAIO DKV",
+        "latitudine": 43.0633607,
+        "longitudine": -2.4753275,
+        "indirizzo": "Zalduspe Kalea, 20500 Arrasate, Gipuzkoa, Spain",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 17,
+        "name": "BENZINAIO PAUSA",
+        "latitudine": 40.44128208,
+        "longitudine": -3.501121485,
+        "indirizzo": "Poligono Pp Parque Ind Sup, 38, 28830 San Fernando de Henares, Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 18,
+        "name": "BOZA TNT",
+        "latitudine": 44.6314931,
+        "longitudine": 11.3863344,
+        "indirizzo": "Interporto Blocco 2.3, 40010 Area Produttiva Interporto BO, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 19,
+        "name": "BP BENZINAIO PAUSA",
+        "latitudine": 40.4360764,
+        "longitudine": -3.5331369,
+        "indirizzo": "Av. de San Pablo, 26, 28823 Coslada, Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 20,
+        "name": "BRT LISCATE",
+        "latitudine": 45.4848742,
+        "longitudine": 9.3847128,
+        "indirizzo": "Strada Comunale 631, 20060 Zona Industriale MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 21,
+        "name": "BVA1",
+        "latitudine": 49.856199,
+        "longitudine": 2.4038772,
+        "indirizzo": "E44, 80440 Boves, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 22,
+        "name": "CAVI 2",
+        "latitudine": 45.0303623,
+        "longitudine": 9.1289503,
+        "indirizzo": "Via Milano, 89b, 27045 Casteggio PV, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 23,
+        "name": "CAVI DUE PIACENZA",
+        "latitudine": 45.1179101,
+        "longitudine": 9.6893441,
+        "indirizzo": "Gerole, 2-12, 26861 Gerole LO, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 24,
+        "name": "CDG FedEx",
+        "latitudine": 49.0083412,
+        "longitudine": 2.5028758,
+        "indirizzo": "D902A, 95700 Roissy-en-France, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 25,
+        "name": "CDG8",
+        "latitudine": 49.0212318,
+        "longitudine": 2.1861507,
+        "indirizzo": "1 Av. Boule, 95250 Beauchamp, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 26,
+        "name": "CGT",
+        "latitudine": 45.3967897,
+        "longitudine": 9.2612525,
+        "indirizzo": "Via della Liberazione, 9, 20098 San Giuliano Milanese MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 27,
+        "name": "DAF PIACENZA",
+        "latitudine": 45.057212,
+        "longitudine": 9.5934223,
+        "indirizzo": "Via Grilli, 2-15, 29010 Zona Industriale Cattagnina-palaz PC, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 28,
+        "name": "DCZ4",
+        "latitudine": 41.5506103,
+        "longitudine": 2.2292272,
+        "indirizzo": "Av. Can Magarola, 08100 Mollet del Vallès, Barcelona, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 29,
+        "name": "DHL",
+        "latitudine": 51.405322,
+        "longitudine": 12.2365138,
+        "indirizzo": "Schkeuditz, DHL Hub, 04435 Schkeuditz, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 30,
+        "name": "DHL BCN",
+        "latitudine": 41.2995465,
+        "longitudine": 2.063173,
+        "indirizzo": "C/ de Estel Polar, 9332, 08820 El Prat de Llobregat, Barcelona, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 31,
+        "name": "DHL BRUXELLES",
+        "latitudine": 50.9077823,
+        "longitudine": 4.468604,
+        "indirizzo": "Luchthavenlaan 117, 1931 Steenokkerzeel, Belgio",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 32,
+        "name": "DHL Castellbisbal",
+        "latitudine": 41.4681103,
+        "longitudine": 1.9524772,
+        "indirizzo": "Carrer Manganès, 3, 08755 Castellbisbal, Barcelona, Spain",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 33,
+        "name": "DHL CDG",
+        "latitudine": 48.984636,
+        "longitudine": 2.5339528,
+        "indirizzo": "1841 Rte de la Croix au Plâtre, 93290 Tremblay-en-France, France",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 34,
+        "name": "DHL CDG BOL",
+        "latitudine": 49.0009792,
+        "longitudine": 2.5312715,
+        "indirizzo": "2 Rue du Pied Sec, 93290 Tremblay-en-France, France",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 35,
+        "name": "DHL EIN",
+        "latitudine": 51.46990061,
+        "longitudine": 5.426345021,
+        "indirizzo": "Achtseweg Noord 36, 5651 GG Eindhoven, Netherlands",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 36,
+        "name": "DHL EIN ZLB",
+        "latitudine": 51.7983414,
+        "longitudine": 5.2697676,
+        "indirizzo": "Heksekamp 29, 5301 Zaltbommel, Netherlands",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 37,
+        "name": "DHL EINDHOVEN",
+        "latitudine": 51.4715763,
+        "longitudine": 5.4224595,
+        "indirizzo": "Achtseweg Noord 20, 5651 GG Eindhoven, Netherlands",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 38,
+        "name": "DHL EINZLB",
+        "latitudine": 51.79967414,
+        "longitudine": 5.269817207,
+        "indirizzo": "Heksekamp 31, 5301 LX Zaltbommel, Netherlands",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 39,
+        "name": "DHL MALPENSA",
+        "latitudine": 45.6052062,
+        "longitudine": 8.7184028,
+        "indirizzo": "Via Molinelli, 21015 Lonate Pozzolo VA, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 40,
+        "name": "DHL MRS",
+        "latitudine": 43.4443595,
+        "longitudine": 5.2123657,
+        "indirizzo": "Rte de l'Aviation Générale, 13700 Marignane, France",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 41,
+        "name": "DHL POZZUOLO",
+        "latitudine": 45.5138847,
+        "longitudine": 9.4375348,
+        "indirizzo": "Via delle Industrie, 1, 20060 Pozzuolo Martesana MI, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 42,
+        "name": "DHL SANTA PERPETUA",
+        "latitudine": 41.5401073,
+        "longitudine": 2.1842835,
+        "indirizzo": "Carrer la Torre, 9-4, 08130 Santa Perpètua de Mogoda, Barcelona, Spain",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 43,
+        "name": "DHL VITORIA",
+        "latitudine": 42.878363,
+        "longitudine": -2.7381552,
+        "indirizzo": "Antezana de Foronda Entitatea, 01196 Gasteiz, Araba, Spain",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 44,
+        "name": "DLO2 ORIGGIO",
+        "latitudine": 45.6014678,
+        "longitudine": 9.004932,
+        "indirizzo": "Via Bruno Buozzi, 27, 21040 Origgio VA, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 45,
+        "name": "Dogana CH Chiasso",
+        "latitudine": 45.835703,
+        "longitudine": 9.037649,
+        "indirizzo": "Via Pietro Baragiola, Como CO, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 46,
+        "name": "DQB9 AMAZON SANTANDER",
+        "latitudine": 43.3959313,
+        "longitudine": -4.0154617,
+        "indirizzo": "Bo. Mar, 35, 39318 Polanco, Cantabria, Spain",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 47,
+        "name": "DTM1 AMAZON",
+        "latitudine": 51.65562909,
+        "longitudine": 7.597742957,
+        "indirizzo": "Amazonstraße 1, 59368 Werne, Germany",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 48,
+        "name": "DTM8",
+        "latitudine": 51.3254603,
+        "longitudine": 6.690364,
+        "indirizzo": "Heidbergsweg 99-100, 47809 Krefeld, Germany",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 49,
+        "name": "EAS FEDEX",
+        "latitudine": 43.2291733,
+        "longitudine": -2.0032146,
+        "indirizzo": "Aranaztegi Hiribidea, 11-7, 20140 Andoain, Gipuzkoa, Spain",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 50,
+        "name": "F & S VIGNATE",
+        "latitudine": 45.487576,
+        "longitudine": 9.3742823,
+        "indirizzo": "32, Via Monzese, 31, 20052 Vignate MI, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 51,
+        "name": "F & S ZURICH",
+        "latitudine": 47.452922,
+        "longitudine": 8.5709217,
+        "indirizzo": "Frachtstrasse 9, 8302 Kloten, Switzerland",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 52,
+        "name": "F&S SCARICO",
+        "latitudine": 52.2823478,
+        "longitudine": 4.7651381,
+        "indirizzo": "Cessnalaan 81, 1119 NM Schiphol-Rijk, Netherlands",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 53,
+        "name": "FEDEX AEROPORTO",
+        "latitudine": 40.4526968,
+        "longitudine": -3.5713705,
+        "indirizzo": "Av. Central, 28042 Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 54,
+        "name": "FEDEX AEROPORTO PORTO",
+        "latitudine": 41.2415927,
+        "longitudine": -8.6717558,
+        "indirizzo": "Strada senza name, 4470-558 Vila Nova da Telha, Portogallo",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 55,
+        "name": "FedEx Cargo",
+        "latitudine": 50.871002,
+        "longitudine": 7.1298657,
+        "indirizzo": "Heinrich-Steinmann-Straße, 51147 Köln, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 56,
+        "name": "FEDEX MRS",
+        "latitudine": 43.448366,
+        "longitudine": 5.2230238,
+        "indirizzo": "Route sans nom, 13700 Vitrolles, France",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 57,
+        "name": "FEDEX ZRH",
+        "latitudine": 47.3084788,
+        "longitudine": 7.9118958,
+        "indirizzo": "Alte Str., 4665 Oftringen, Svizzera",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 58,
+        "name": "FEDEX MXP",
+        "latitudine": 45.6085962,
+        "longitudine": 8.717555,
+        "indirizzo": "Strada senza name, 21015 Lonate Pozzolo VA, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 59,
+        "name": "FIGUERES PARKING AS24",
+        "latitudine": 42.2307083,
+        "longitudine": 2.9569603,
+        "indirizzo": "Lloc CS2 Paraje la Coromina, 6P, 17771, Girona, Spain",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 60,
+        "name": "GALANTA SAMSUNG",
+        "latitudine": 48.2378207,
+        "longitudine": 17.7304255,
+        "indirizzo": "35, 924 01 Dolná Streda, Slovacchia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 61,
+        "name": "GARAJ",
+        "latitudine": 44.4335243,
+        "longitudine": 25.9764798,
+        "indirizzo": "Strada Preciziei 38, București, România",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 62,
+        "name": "Ginevra Aeroporto zona CARGO",
+        "latitudine": 46.237564,
+        "longitudine": 6.1157857,
+        "indirizzo": "Fret, Voie-des-Traz 20, 1215 Le Grand-Saconnex, Svizzera",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 63,
+        "name": "KAT SOFIA",
+        "latitudine": 42.6660625,
+        "longitudine": 23.3555348,
+        "indirizzo": "ul. \"Lachezar Stanchev\", 1797 NPZ Dianabad, Sofia, Bulgaria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 64,
+        "name": "LISCATE F & S",
+        "latitudine": 45.4814757,
+        "longitudine": 9.390314,
+        "indirizzo": "Via Giuseppe di Vittorio, 8, 20050 Zona Industriale MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 65,
+        "name": "LOZA",
+        "latitudine": 45.330036,
+        "longitudine": 9.3933433,
+        "indirizzo": "Via Attilio Orecchia, 28, 26838 Tavazzano con Villavesco LO, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 66,
+        "name": "MAD TNT",
+        "latitudine": 40.4452483,
+        "longitudine": -3.506579,
+        "indirizzo": "C. Albañiles, 3-50, 28830 San Fernando de Henares, Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 67,
+        "name": "MAD6",
+        "latitudine": 40.0932187,
+        "longitudine": -3.8277367,
+        "indirizzo": "Poligono Veredilla III, 1612P, 45200, Toledo, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 68,
+        "name": "MAD7",
+        "latitudine": 40.1089395,
+        "longitudine": -3.8548423,
+        "indirizzo": "C. Antonio Gaudí, 45200 Illescas, Toledo, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 69,
+        "name": "MAD8",
+        "latitudine": 40.2791148,
+        "longitudine": -3.682059,
+        "indirizzo": "C. Severo Ochoa, 28906 Getafe, Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 70,
+        "name": "MAD8",
+        "latitudine": 40.2793468,
+        "longitudine": -3.6818477,
+        "indirizzo": "C. Severo Ochoa, 28906 Getafe, Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 71,
+        "name": "MAD8 AMAZON",
+        "latitudine": 40.4332113,
+        "longitudine": -3.5683577,
+        "indirizzo": "C. Liechtenstein, 1, 28821 Coslada, Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 72,
+        "name": "MAD9",
+        "latitudine": 40.5052278,
+        "longitudine": -3.3183018,
+        "indirizzo": "Cam. de los Afligidos, 28804 Alcalá de Henares, Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 73,
+        "name": "MAN SOFIA",
+        "latitudine": 42.741266,
+        "longitudine": 23.2357468,
+        "indirizzo": "bul. \"Evropa\", 1331 Republika, Sofia, Bulgaria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 74,
+        "name": "Meccanico Man",
+        "latitudine": 45.6124018,
+        "longitudine": 9.5475022,
+        "indirizzo": "Via Liguria, 1, 24041 Brembate MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 75,
+        "name": "Meccanico Volvo",
+        "latitudine": 45.1168445,
+        "longitudine": 9.6890553,
+        "indirizzo": "Strada Statale 9 Via Emilia, Provincia di Lodi, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 76,
+        "name": "MUC3",
+        "latitudine": 48.2000357,
+        "longitudine": 10.8505753,
+        "indirizzo": "Amazonstraße 451-434, 86836 Graben, Germany",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 77,
+        "name": "MXP5 CASTEL SAN GIOVANNI",
+        "latitudine": 45.076164,
+        "longitudine": 9.457629,
+        "indirizzo": "Strada Dogana Po, 2, 29015 Castel San Giovanni PC, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 78,
+        "name": "MXP6 AMAZON NOVARA",
+        "latitudine": 45.4711165,
+        "longitudine": 8.573963,
+        "indirizzo": "Via Luigi Einaudi, 4, 28100 Novara NO, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 79,
+        "name": "MXPA SOMMA LOMBARDO AMAZON",
+        "latitudine": 45.6502128,
+        "longitudine": 8.7233542,
+        "indirizzo": "Terminal, 2, 21010 Somma lombardo VA, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 80,
+        "name": "NIRA PARKING",
+        "latitudine": 42.6711243,
+        "longitudine": 23.458483,
+        "indirizzo": "ж.к. Кривина 40, 1588 Krivina, Bulgaria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 81,
+        "name": "ORY8",
+        "latitudine": 47.9654017,
+        "longitudine": 1.841087,
+        "indirizzo": "Route sans nom, 45520 Gidy, France",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 82,
+        "name": "PANTHEON F&S",
+        "latitudine": 45.5880603,
+        "longitudine": 9.311436,
+        "indirizzo": "Viale Gian Battista Stucchi, 108, 20900 Monza MB, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 83,
+        "name": "PANTHEON MONZA",
+        "latitudine": 45.5880603,
+        "longitudine": 9.311436,
+        "indirizzo": "Viale Gian Battista Stucchi, 108, 20900 Monza MB, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 84,
+        "name": "PARCHEGGIO",
+        "latitudine": 44.8873572,
+        "longitudine": -0.5539158,
+        "indirizzo": "Av. des 3 Cardinaux, 33300 Bordeaux, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 85,
+        "name": "PARCHEGGIO",
+        "latitudine": 40.927187,
+        "longitudine": -2.715059,
+        "indirizzo": "Autovía del Nordeste, 19268 Mirabueno, Guadalajara, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 86,
+        "name": "PARCHEGGIO",
+        "latitudine": 44.8873572,
+        "longitudine": -0.5539158,
+        "indirizzo": "Av. des 3 Cardinaux, 33300 Bordeaux, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 87,
+        "name": "PARCHEGGIO BRESCIA EST",
+        "latitudine": 45.486981,
+        "longitudine": 10.3203395,
+        "indirizzo": "Via Sandro Pertini, 25014 Castenedolo BS, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 88,
+        "name": "PARCHEGGIO LP1",
+        "latitudine": 49.3185997,
+        "longitudine": 2.7055982,
+        "indirizzo": "D155, 60126 Longueil-Sainte-Marie, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 89,
+        "name": "Parcheggio Saragozza",
+        "latitudine": 41.6966587,
+        "longitudine": -0.9889355,
+        "indirizzo": "N-232, 215, 50180 Utebo, Zaragoza, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 90,
+        "name": "PARCHEGGIO SICURIZZATO",
+        "latitudine": 40.9271082,
+        "longitudine": -2.7146883,
+        "indirizzo": "Cam. de Santiago, 19268 Mirabueno, Guadalajara, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 91,
+        "name": "PARCHEGGIO VENLO",
+        "latitudine": 51.3893092,
+        "longitudine": 6.1866381,
+        "indirizzo": "Veegtesstraat 39, 5916 PG Venlo, Paesi Bassi",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 92,
+        "name": "PARKING",
+        "latitudine": 48.509374,
+        "longitudine": 11.5835078,
+        "indirizzo": "St2045, 85301 Schweitenkirchen, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 93,
+        "name": "PARKING",
+        "latitudine": 47.7957713,
+        "longitudine": 5.2281507,
+        "indirizzo": "D428, 52250 Flagey, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 94,
+        "name": "PARKING 3",
+        "latitudine": 41.6951878,
+        "longitudine": -0.9906383,
+        "indirizzo": "Diseminado Cr Logroño los Llanos, 1106, 50190 Zaragoza, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 95,
+        "name": "PARKING A PAGAMENTO",
+        "latitudine": 47.7651927,
+        "longitudine": 12.105465,
+        "indirizzo": "Kufsteiner Str. 118, 83064 Raubling, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 96,
+        "name": "parking A4",
+        "latitudine": 48.90839862,
+        "longitudine": 2.94328325,
+        "indirizzo": "A4, 77470 Vaucourtois, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 97,
+        "name": "PARKING BORDEAUX",
+        "latitudine": 44.8873572,
+        "longitudine": -0.5539158,
+        "indirizzo": "Av. des 3 Cardinaux, 33300 Bordeaux, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 98,
+        "name": "PARKING BRU",
+        "latitudine": 50.6144732,
+        "longitudine": 4.2982002,
+        "indirizzo": "E19, 1400 Nivelles, Belgio",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 99,
+        "name": "PARKING DETELINA",
+        "latitudine": 42.7391053,
+        "longitudine": 23.2513663,
+        "indirizzo": "ul. \"Okolovrasten pat\" 725, 1331 SPZ Moderno predgradie, Sofia, Bulgaria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 100,
+        "name": "Parking MV9",
+        "latitudine": 49.0931037,
+        "longitudine": 2.517443,
+        "indirizzo": "9 Rue Jean Jaurès, 95670 Marly-la-ville, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 101,
+        "name": "PARKING SIMONA",
+        "latitudine": 42.7399508,
+        "longitudine": 23.253334,
+        "indirizzo": "ul. \"Okolovrasten pat\" 605, 1298 SPZ Moderno predgradie, Sofia, Bulgaria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 102,
+        "name": "PARKING SIMONA",
+        "latitudine": 42.7399508,
+        "longitudine": 23.253334,
+        "indirizzo": "ul. \"Okolovrasten pat\" 605, 1298 SPZ Moderno predgradie, Sofia, Bulgaria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 103,
+        "name": "PARKING SIMONA",
+        "latitudine": 42.7399508,
+        "longitudine": 23.253334,
+        "indirizzo": "ul. \"Okolovrasten pat\" 605, 1298 SPZ Moderno predgradie, Sofia, Bulgaria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 104,
+        "name": "PARKING SIMONA",
+        "latitudine": 42.739953,
+        "longitudine": 23.2530845,
+        "indirizzo": "ul. \"Okolovrasten pat\" 605, 1298 SPZ Moderno predgradie, Sofia, Bulgaria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 105,
+        "name": "Revisione camion",
+        "latitudine": 45.4228606,
+        "longitudine": 9.2793075,
+        "indirizzo": "Via Fiume Lambro, 20097 San Donato Milanese MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 106,
+        "name": "REVISION MARIAN MAGO",
+        "latitudine": 42.711914,
+        "longitudine": 23.3309,
+        "indirizzo": "бул. „История славянобългарска“, 1202 Orlandovtsi, Sofia, Bulgaria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 107,
+        "name": "REVISIONI",
+        "latitudine": 45.5025888,
+        "longitudine": 9.0930327,
+        "indirizzo": "Via Francesco Cilea, 124-148, 20151 Milano MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 108,
+        "name": "ROVIDO AMAZON",
+        "latitudine": 45.4116215,
+        "longitudine": 9.0903457,
+        "indirizzo": "Via dell'Artigianato, 6, 20090 Rovido Industriale MI, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 109,
+        "name": "S. PARKING BE",
+        "latitudine": 50.1461562,
+        "longitudine": 5.0816137,
+        "indirizzo": "Rue de Ribaufontaine 1, 5564 Houyet, Belgium",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 110,
+        "name": "SAFE PARKING",
+        "latitudine": 48.5092848,
+        "longitudine": 11.5829993,
+        "indirizzo": "St2045, 85301 Schweitenkirchen, Germany",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 111,
+        "name": "SAFE PARKING",
+        "latitudine": 43.2826328,
+        "longitudine": -1.9234895,
+        "indirizzo": "Inaxio Berasarte Bidea, 2, 20115 Astigarraga, Gipuzkoa, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 112,
+        "name": "safe parking near DNG",
+        "latitudine": 48.8359972,
+        "longitudine": 11.4726396,
+        "indirizzo": "A9 Streckenkilometer 450, 5, 85120 Hepberg, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 113,
+        "name": "SAFE PARKING TNT VIPITENO",
+        "latitudine": 46.8813047,
+        "longitudine": 11.435451,
+        "indirizzo": "Località Pruno, 17, 39040 Campo di Trens BZ, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 114,
+        "name": "SAFE PARKING TRENTO",
+        "latitudine": 46.1111685,
+        "longitudine": 11.093177,
+        "indirizzo": "Via S. Sebastian, 38121 Località Produttiva I TN, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 115,
+        "name": "SCAMBIO STAZIONE",
+        "latitudine": 49.0734743,
+        "longitudine": 2.5525917,
+        "indirizzo": "A1, 95470 Vémars, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 116,
+        "name": "SETTALA",
+        "latitudine": 45.4439873,
+        "longitudine": 9.3770672,
+        "indirizzo": "Via Achille Grandi, 20090 Caleppio MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 117,
+        "name": "SF PARKING",
+        "latitudine": 45.4603102,
+        "longitudine": -0.1449227,
+        "indirizzo": "D731, 16300 Barbezieux-Saint-Hilaire, France",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 118,
+        "name": "SF PARKING SARAGOZZA 2",
+        "latitudine": 41.6259218,
+        "longitudine": -1.0094428,
+        "indirizzo": "C. Calvi, 50197 Zaragoza, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 119,
+        "name": "SP AOSTA",
+        "latitudine": 45.737714,
+        "longitudine": 7.3727998,
+        "indirizzo": "A5, 11020 Quart AO, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 120,
+        "name": "TACHIGRAFO",
+        "latitudine": 45.4944765,
+        "longitudine": 9.3172968,
+        "indirizzo": "Via Achille Grandi, 15-9, 20096 Pioltello MI, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 121,
+        "name": "Thomas-Dachser-Straße, 90475, Germania",
+        "latitudine": 49.38637041,
+        "longitudine": 11.17452934,
+        "indirizzo": "Thomas-Dachser-Straße, 90475, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 122,
+        "name": "TNT  LISBONA",
+        "latitudine": 38.7764915,
+        "longitudine": -9.1259595,
+        "indirizzo": "R. C 77, 1700-111 Lisboa, Portugal",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 123,
+        "name": "TNT BCN",
+        "latitudine": 41.3401153,
+        "longitudine": 2.1421073,
+        "indirizzo": "Carrer A, 83, 08040 Barcelona, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 124,
+        "name": "TNT BOZA",
+        "latitudine": 44.6313421,
+        "longitudine": 11.3836636,
+        "indirizzo": "Interporto Blocco 1.1, 40016 San Giorgio di piano BO, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 125,
+        "name": "TNT Brnik",
+        "latitudine": 46.2335067,
+        "longitudine": 14.4509208,
+        "indirizzo": "Unnamed Road, Slovenia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 126,
+        "name": "TNT BRUXELLES",
+        "latitudine": 50.9050082,
+        "longitudine": 4.4499205,
+        "indirizzo": "Bedrijvenzone Machelen-Cargo 711, 1931 Machelen, Belgio",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 127,
+        "name": "TNT DFT",
+        "latitudine": 50.038563,
+        "longitude": 8.2622745,
+        "indirizzo": "Unterer Zwerchweg 11, 65205 Wiesbaden, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 128,
+        "name": "TNT DIETZENBACH",
+        "latitudine": 50.0180073,
+        "longitude": 8.806305,
+        "indirizzo": "Waldstraße 86, 63128 Dietzenbach, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 129,
+        "name": "TNT EF3 ERFURT",
+        "latitudine": 50.9754903,
+        "longitude": 10.9556903,
+        "indirizzo": "Flughafenstraße 21, 99092 Erfurt, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 130,
+        "name": "TNT ETZ",
+        "latitudine": 49.2373845,
+        "longitude": 6.2376628,
+        "indirizzo": "25-16 Rue André Maginot, 57365 Flévy, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 131,
+        "name": "TNT FEDEX AEROPORTO LISBONA",
+        "latitudine": 38.7819777,
+        "longitude": -9.1272852,
+        "indirizzo": "R. D 156, 1700-111 Lisboa, Portogallo",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 132,
+        "name": "TNT IMR",
+        "latitudine": 45.4683335,
+        "longitude": 8.5541485,
+        "indirizzo": "Via Dante Alighieri, 28060 San Pietro Mosezzo NO, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 133,
+        "name": "TNT INNSBRUG",
+        "latitudine": 47.4884972,
+        "longitude": 12.1049722,
+        "indirizzo": "Wörgler Boden 3, 6300 Wörgl, Austria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 134,
+        "name": "TNT MONACO ZMU",
+        "latitudine": 48.335344,
+        "longitude": 11.7323382,
+        "indirizzo": "Lindberghstraße 12, 85399 Hallbergmoos, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 135,
+        "name": "TNT MPL",
+        "latitudine": 43.5902172,
+        "longitude": 3.9626205,
+        "indirizzo": "Route sans nom, 34130 Mauguio, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 136,
+        "name": "TNT MRS",
+        "latitudine": 43.4483112,
+        "longitude": 5.223885,
+        "indirizzo": "Rte de l'Aéroport, 13127 Vitrolles, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 137,
+        "name": "TNT PADOVA",
+        "latitude": 45.3829207,
+        "longitude": 11.9206532,
+        "indirizzo": "Via Nuova Zelanda, 35127 Padova PD, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 138,
+        "name": "TNT Praga",
+        "latitude": 50.0379903,
+        "longitude": 14.2487967,
+        "indirizzo": "Prague West Business Center, 252 19 Chrášťany, Repubblica Ceca",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 139,
+        "name": "TNT STRAUBING",
+        "latitude": 48.944914,
+        "longitude": 12.6187867,
+        "indirizzo": "B20, 94377 Steinach, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 140,
+        "name": "TNT STRAUBING",
+        "latitude": 48.945226,
+        "longitude": 12.6187653,
+        "indirizzo": "Hochstraß 9, 94377 Steinach, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 141,
+        "name": "TNT VLC",
+        "latitude": 39.4403652,
+        "longitude": -0.4272813,
+        "indirizzo": "Carrer Dissabtes, 46210 Picanya, Valencia, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 142,
+        "name": "TORRAZZA AMAZON",
+        "latitude": 45.2354368,
+        "longitude": 7.976833,
+        "indirizzo": "Strada senza name, 10037 Torrazza Piemonte TO, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 143,
+        "name": "Truck Service",
+        "latitude": 45.3829848,
+        "longitude": 9.2574237,
+        "indirizzo": "Piazza A.Locatelli, 24, 20098 San Giuliano Milanese MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 144,
+        "name": "UFFICIO JDR",
+        "latitude": 40.430299,
+        "longitude": -3.5535187,
+        "indirizzo": "Av. de Fuentemar, 13-5, 28823 Coslada, Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 145,
+        "name": "UPS FRESCHI",
+        "latitude": 45.438294,
+        "longitude": 9.2979773,
+        "indirizzo": "Via Enrico Fermi, 10, 20068 Peschiera Borromeo MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 146,
+        "name": "UPS KOLN",
+        "latitudine": 50.8706163,
+        "longitude": 7.1306095,
+        "indirizzo": "Heinrich-Steinmann-Straße, 51147 Köln, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 147,
+        "name": "UPS KOLN",
+        "latitudine": 50.8699993,
+        "longitude": 7.1315748,
+        "indirizzo": "Heinrich-Steinmann-Straße, 51147 Köln, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 148,
+        "name": "UPS PER DHL",
+        "latitudine": 45.5834957,
+        "longitude": 9.0091302,
+        "indirizzo": "Viale Europa, 11, 21040 Origgio VA, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 149,
+        "name": "Vemars Parking",
+        "latitudine": 49.07222171,
+        "longitude": 2.549827999,
+        "indirizzo": "Route sans nom, 95470 Vémars, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 150,
+        "name": "VENLO TNT",
+        "latitudine": 51.3999327,
+        "longitude": 6.086544,
+        "indirizzo": "Marco Poloweg 6, 5928 LE Venlo, Paesi Bassi",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 151,
+        "name": "Via Altiero Spinelli, 1, 20068 Peschiera Borromeo MI, Italia",
+        "latitudine": 45.4372573,
+        "longitude": 9.2828308,
+        "indirizzo": "Via Altiero Spinelli, 1, 20068 Peschiera Borromeo MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 152,
+        "name": "Via Altiero Spinelli, 30, 20068 Peschiera Borromeo MI, Italia",
+        "latitudine": 45.43695088,
+        "longitude": 9.283936769,
+        "indirizzo": "Via Altiero Spinelli, 30, 20068 Peschiera Borromeo MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 153,
+        "name": "WALLENBORN BE",
+        "latitudine": 50.9088292,
+        "longitude": 4.458307,
+        "indirizzo": "Bedrijvenzone Machelen-Cargo 758, 1931 Machelen, Belgio",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 154,
+        "name": "WALLENBORN OOSTRUM",
+        "latitudine": 51.5171538,
+        "longitude": 6.0116146,
+        "indirizzo": "Wattstraat 1, 5808 BL Oirlo, Paesi Bassi",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 155,
+        "name": "XITC AMAZON FRANCOLINO DI CARPIANO",
+        "latitudine": 45.3513998,
+        "longitude": 9.2811412,
+        "indirizzo": "Via Aldo Moro, 4, 20080 Francolino MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 156,
+        "name": "ZAZ1",
+        "latitudine": 41.628141,
+        "longitudine": -1.0195173,
+        "indirizzo": "C. Genovés, 5, 50197 Zaragoza, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 157,
+        "name": "Zurigo TNT",
+        "latitudine": 47.30785,
+        "longitudine": 7.912876,
+        "indirizzo": "Wiggermatte 2, 4665 Oftringen, Svizzera",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 158,
+        "name": "BETA TRANS SRL - Sede Cliente",
+        "latitudine": 45.49194122,
+        "longitudine": 9.307036106,
+        "indirizzo": "20090 Segrate MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 159,
+        "name": "BO1 TNT - Sede Cliente",
+        "latitudine": 44.5201015,
+        "longitudine": 11.2146983,
+        "indirizzo": "A14 - Autostrada Adriatica, 741, 40069 Bologna BO, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 160,
+        "name": "CARGO BELGIO - Sede Cliente",
+        "latitudine": 50.9088292,
+        "longitudine": 4.458307,
+        "indirizzo": "Bedrijvenzone Machelen-Cargo 758, 1931 Machelen, Belgio",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 161,
+        "name": "CARGO ITALIA SB - Sede Cliente",
+        "latitudine": 45.43063965,
+        "longitudine": 9.288976975,
+        "indirizzo": "Via Giuseppe di Vittorio, 37, 20068 Peschiera Borromeo MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 162,
+        "name": "CAVIDUE - Sede Cliente",
+        "latitudine": 45.0303623,
+        "longitudine": 9.1289503,
+        "indirizzo": "Via Milano, 89b, 27045 Casteggio PV, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 163,
+        "name": "DHL - Sede Cliente",
+        "latitudine": 51.4713286,
+        "longitudine": 5.422568,
+        "indirizzo": "Achtseweg Noord 20, 5651 Eindhoven, Paesi Bassi",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 164,
+        "name": "DHL - Sede Cliente",
+        "latitudine": 45.3493271,
+        "longitudine": 9.2822443,
+        "indirizzo": "Via Don Dossetti 2, 20080 Francolino MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 165,
+        "name": "DHL - LIPSIA - Sede Cliente",
+        "latitudine": 51.40664192,
+        "longitudine": 12.21725466,
+        "indirizzo": "Industriestraße 16, 04435 Schkeuditz, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 166,
+        "name": "DHL - ORIO AL SERIO (BG)",
+        "latitudine": 45.6638393,
+        "longitudine": 9.707088266,
+        "indirizzo": "Aeroporto di Bergamo - Orio al Serio (BGY), Via Aeroporto, 200, 24050 Orio al serio BG, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 167,
+        "name": "DHL MADRID",
+        "latitudine": 40.4574368,
+        "longitudine": -3.560624,
+        "indirizzo": "Calle Provisional Hangar Aeropuerto Barajas, 28042 Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 168,
+        "name": "DHL Madrid 2",
+        "latitudine": 40.2687337,
+        "longitudine": -3.711896,
+        "indirizzo": "Calle Río Almanzora, 4, 28906 Getafe, Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 169,
+        "name": "Duiven TNT",
+        "latitudine": 51.9684858,
+        "longitudine": 6.0189853,
+        "indirizzo": "Express 1, 6921 RB Duiven, Paesi Bassi",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 170,
+        "name": "Genas TNT",
+        "latitudine": 45.7197113,
+        "longitudine": 4.9854407,
+        "indirizzo": "64 Avenue des Frères Montgolfier, 69740 Genas, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 171,
+        "name": "Halis Kamer",
+        "latitudine": 46.2064793,
+        "longitudine": 21.2921575,
+        "indirizzo": "Strada Poetului 101, Arad, România",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 172,
+        "name": "Kingsbury",
+        "latitudine": 52.5809752,
+        "longitudine": -1.6602233,
+        "indirizzo": "26 Piccadilly, Tamworth B78 2ER, Regno Unito",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 173,
+        "name": "LIONE TNT",
+        "latitudine": 45.6736573,
+        "longitudine": 4.9369963,
+        "indirizzo": "6 Avenue Bernard Vos, 69780 Mions, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 174,
+        "name": "Marly La Ville TNT",
+        "latitudine": 49.0908221,
+        "longitudine": 2.5220781,
+        "indirizzo": "Rue Jean Jaurès, 95670 Marly-la-ville, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 175,
+        "name": "MLE - LINATE",
+        "latitudine": 45.45619008,
+        "longitudine": 9.283679277,
+        "indirizzo": "Aeroporto di Milano Linate (LIN), Scalo Merci Aeroporto Linate, 20090 Novegro-Tregarezzo MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 176,
+        "name": "MLE - MXP",
+        "latitudine": 45.61548111,
+        "longitudine": 8.717454225,
+        "indirizzo": "Aeroporto di Milano-Malpensa, Strada Provinciale 52, Lonate Pozzolo VA, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 177,
+        "name": "MLH//AIRCARGO LOGISTICS FRANCE CARGO TERMINAL EINGANG D / 1. STOCK 68300.0 SAINT-LOUIS France",
+        "latitudine": 47.5877755,
+        "longitudine": 7.5399097,
+        "indirizzo": "Rte du Frêt, 68220 Hésingue, France",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 178,
+        "name": "SCHIAVONI VIGNATE",
+        "latitudine": 45.487291,
+        "longitudine": 9.374582358,
+        "indirizzo": "Via Monzese, 31-32, 20060 Vignate MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 179,
+        "name": "SCHIPHOL-NL",
+        "latitudine": 52.295171,
+        "longitudine": 4.7706362,
+        "indirizzo": "Schiphol Zuidoost, Anchoragelaan 32, 1118 Schiphol, Paesi Bassi",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 180,
+        "name": "Settala TNT",
+        "latitudine": 45.4438607,
+        "longitudine": 9.3770848,
+        "indirizzo": "Via Achille Grandi, 20090 Caleppio MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 181,
+        "name": "TNT",
+        "latitudine": 41.2338498,
+        "longitudine": -8.6640415,
+        "indirizzo": "R. Empreendimento Particular da Boa Viagem 2, 4470-558 Moreira, Portogallo",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 182,
+        "name": "TNT",
+        "latitudine": 51.453922,
+        "longitudine": 0.220571,
+        "indirizzo": "Central Rd, Dartford DA1 5JN, Regno Unito",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 183,
+        "name": "TNT - DUIVEN (NL)",
+        "latitudine": 51.96719729,
+        "longitudine": 6.019581109,
+        "indirizzo": "Centerpoort-Noord, Express 1, 6921 Duiven, Paesi Bassi",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 184,
+        "name": "TNT - PARIGI (F)",
+        "latitudine": 48.95911869,
+        "longitudine": 2.463959008,
+        "indirizzo": "E19, 93600 Aulnay-sous-Bois, Francia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 185,
+        "name": "TNT - PESCHIERA (MI)",
+        "latitudine": 45.43704123,
+        "longitudine": 9.284022599,
+        "indirizzo": "Via Altiero Spinelli, 283, 20068 Peschiera Borromeo MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 186,
+        "name": "TNT - VIENNA",
+        "latitudine": 48.12732968,
+        "longitudine": 16.55175526,
+        "indirizzo": "Cargo Nord Ring, 1300 Schwechat, Austria",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 187,
+        "name": "TNT aeroporto",
+        "latitudine": 41.298148,
+        "longitudine": 2.0597822,
+        "indirizzo": "Carrer Estela Polar, 12, 08820 Sant Boi de Llobregat, Barcelona, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 188,
+        "name": "TNT DUIVEN 2",
+        "latitudine": 51.9128868,
+        "longitudine": 5.8691745,
+        "indirizzo": "Archimedesweg, 6662 PS Elst, Paesi Bassi",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 189,
+        "name": "TNT EINDHOVEN",
+        "latitudine": 51.4771008,
+        "longitudine": 5.4110588,
+        "indirizzo": "Achtseweg Noord 17, 5651 GG Eindhoven, Paesi Bassi",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 190,
+        "name": "TNT MADRID",
+        "latitudine": 40.4466397,
+        "longitudine": -3.5067985,
+        "indirizzo": "Av. Astronomía, 28830 San Fernando de Henares, Madrid, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 191,
+        "name": "TNT NORINBERGA",
+        "latitudine": 49.38738875,
+        "longitudine": 11.17175259,
+        "indirizzo": "Am Hohen Bühl 1, 90475 Nürnberg, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 192,
+        "name": "TNT PORTO",
+        "latitudine": 41.2338498,
+        "longitudine": -8.6640415,
+        "indirizzo": "R. Empreendimento Particular da Boa Viagem 2, 4470-558 Moreira, Portogallo",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 193,
+        "name": "TNT Saragozza",
+        "latitudine": 41.7195818,
+        "longitudine": -0.8529741,
+        "indirizzo": "Calle Cdad. del Transporte, 25-3, 50015 Zaragoza, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 194,
+        "name": "VENTURA SRL",
+        "latitudine": 44.62655239,
+        "longitudine": 11.38700321,
+        "indirizzo": "Via Santa Maria in Duno, 164, 40010 Santa Maria In Duno BO, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 195,
+        "name": "Wallenborn LUX",
+        "latitudine": 49.6395442,
+        "longitudine": 6.2264888,
+        "indirizzo": "Parishaff, Niederanven, Lussemburgo",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 196,
+        "name": "AS24 BONNEVILLE",
+        "latitudine": 46.066194,
+        "longitudine": 6.412761,
+        "indirizzo": "448-606 Rue des Sarazins, 74130 Bonneville, France",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 197,
+        "name": "EVOLA",
+        "latitudine": 47.6080508,
+        "longitudine": 7.5944238,
+        "indirizzo": "Rosenauer Str., 79576 Weil am Rhein, Germany",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 198,
+        "name": "Parking FR",
+        "latitudine": 47.167086,
+        "longitudine": 0.6294545,
+        "indirizzo": "423 Aire de Ste Maure de Touraine, 37800 Saint-Épain, France",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 199,
+        "name": "GARAJ",
+        "latitudine": 44.4335243,
+        "longitudine": 25.9764798,
+        "indirizzo": "Strada Preciziei 38, București, România",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 200,
+        "name": "ROAD CARGO SERVICE SRL",
+        "latitudine": 45.3585608,
+        "longitudine": 9.1312105,
+        "indirizzo": "Strada Statale , 20080 Zibido San Giacomo MI, Italia",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 201,
+        "name": "Benaverte",
+        "latitudine": 41.992764,
+        "longitudine": -5.648897,
+        "indirizzo": "Calle Nueva Apertura, 27, 49600 Benavente, Zamora, Spagna",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 202,
+        "name": "JDR FRA OFFICE",
+        "latitudine": 50.01653,
+        "longitudine": 8.58944,
+        "indirizzo": "Nordendstraße 79-87, 64546 Mörfelden-Walldorf, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 203,
+        "name": "OTL Logistik",
+        "latitudine": 50.055531,
+        "longitudine": 8.5237832,
+        "indirizzo": "Langer Kornweg 34D, 65451 Kelsterbach, Germany",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 204,
+        "name": "SCHIAVONI LISCATE",
+        "latitudine": 45.4812935,
+        "longitudine": 9.3897537,
+        "indirizzo": "Via Giuseppe di Vittorio, 8, 20060 Zona Industriale MI, Italy",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 205,
+        "name": 41,
+        "latitudine": 47.6135667,
+        "longitudine": 12.2013663,
+        "indirizzo": "Inntal Autobahn 2, 83088 Kiefersfelden, Germania",
+        "url": "https://picsum.photos/210"
+    },
+    {
+        "id": 206,
+        "name": 9140,
+        "latitudine": 41.0403312,
+        "longitudine": -2.4505422,
+        "indirizzo": "E-90, 19260 Alcolea del Pinar, Guadalajara, Spagna",
+        "url": "https://picsum.photos/210"
+    }
+]

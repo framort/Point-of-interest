@@ -1,0 +1,173 @@
+:root {
+    --darkGreey: #2b2d42;
+    --iceGrey: #adb5bd;
+    --lightOrange: #ffbf69;
+    --orange: #ff9f1c;
+}
+
+.font-title {
+    font-family: "Nova Square", sans-serif;
+}
+
+.font-text {
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+    transition: 0.3s;
+}
+
+
+.titoloH {
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    color: var(--lightOrange);
+}
+
+.header-custom {
+    margin-top: 72px;
+}
+
+
+
+.titoloH span {
+    text-shadow: 2px 2px var(--orange);
+}
+
+.numbers-img {
+    filter: drop-shadow(-2rem -1.5rem 2rem var(--orange));
+}
+
+.increment {
+    text-shadow: 3px 3px black;
+}
+
+.incrementContainer {
+    background-color: whitesmoke;
+}
+
+.shadow-title {
+    text-shadow: 2px 2px var(--orange);
+}
+
+
+.shadow-cards {
+    text-shadow: 2px 2px black;
+}
+
+.card-img-overlay:hover {
+    opacity: 1 !important;
+    backdrop-filter: blur(5px) grayscale(50%);
+}
+
+.card-img-overlay {
+    border: 1px solid var(--orange) !important;
+}
+
+.swiper {
+    width: 600px;
+    height: 320px;
+}
+
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.swiper-slide:nth-child(1n) {
+    background-color: var(--orange);
+}
+
+.swiper-slide:nth-child(2n) {
+    background-color: var(--orange);
+}
+
+.swiper-slide:nth-child(3n) {
+    background-color: var(--orange);
+}
+
+.swiper-slide:nth-child(4n) {
+    background-color: var(--orange);
+}
+
+.swiper-slide:nth-child(5n) {
+    background-color: var(--orange);
+}
+
+.form-control {
+    resize: none;
+}
+
+.toggleContainer {
+    position: fixed;
+    z-index: 5;
+    right: 20px;
+    bottom: 20px;
+}
+
+#switch[type=checkbox] {
+    height: 0;
+    width: 0;
+    visibility: hidden;
+}
+
+.checkboxLabel {
+    
+    cursor: pointer;
+    text-indent: -9999px;
+    width: 60px;
+    height: 35px;
+    background: black;
+    display: block;
+    border-radius: 100px;
+    position: relative;
+}
+
+.checkboxLabel:after {
+    content: '';
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 25px;
+    height: 25px;
+    background: #fff;
+    border-radius: 90px;
+    transition: 0.3s;
+}
+
+input:checked + .checkboxLabel {
+    background: #ff9f1c;
+}
+
+input:checked + .checkboxLabel:after {
+    left: calc(100% - 5px);
+    transform: translateX(-100%);
+}
+.checkboxLabel:active:after {
+    width: 25px;
+}
+body:has(#switch:checked){
+    background-color: black;
+    color:#fff
+}
+body:has(#switch:checked) #numberSection{
+    background-color: black !important;
+}
+body:has(#switch:checked)#footer{
+    color: white !important;
+}
